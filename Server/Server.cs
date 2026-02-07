@@ -6,12 +6,13 @@ using System.Net.Sockets;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Client
+namespace Server
 {
-    public class Client
+    public class Server
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
