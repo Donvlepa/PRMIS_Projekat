@@ -2,10 +2,8 @@
 using System.IO;
 using System.Runtime.Serialization.Formatters.Binary;
 
-
 namespace Domain
 {
-    [Serializable]
     public class Igrac
     {
         public string Ime { get; set; }
